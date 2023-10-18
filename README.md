@@ -1,6 +1,6 @@
 # codsoft
 # TASK2
-# Calculator
+# CALCULATOR
 import math
 
 # Function to add two numbers
