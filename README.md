@@ -1,5 +1,5 @@
 # codsoft
-# TASK3
+# TASK4
 # ROCK PAPER SCISSORS GAME
 import random
 
